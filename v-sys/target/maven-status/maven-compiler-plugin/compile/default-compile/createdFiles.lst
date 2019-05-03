@@ -1,0 +1,6 @@
+com\vawu\vblog\pojo\BaseDo.class
+com\vawu\vblog\config\WebMvcConfiguration.class
+com\vawu\vblog\dao\SysRoleMapper.class
+com\vawu\vblog\VBlogSysApplication.class
+com\vawu\vblog\controller\LoginController.class
+com\vawu\vblog\pojo\SysRole.class

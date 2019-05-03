@@ -1,0 +1,4 @@
+com\vawu\vblog\config\ShiroConfig.class
+com\vawu\vblog\shiro\authenticator\DefineModularRealmAuthenticator.class
+com\vawu\vblog\shiro\realm\LoginRealm.class
+com\vawu\vblog\shiro\matcher\RetryLimitCredentialsMatcher.class
